@@ -1,0 +1,1 @@
+# A Planck Keyboard layout that is modified to included things that its creator finds interesting, such as WIP MIDI functionality, and a greek letter layer (lowercase and uppercase)!
